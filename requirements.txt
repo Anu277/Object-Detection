@@ -1,0 +1,12 @@
+Flask
+ultralytics
+torch
+Pillow
+numpy
+
+Flask
+Werkzeug
+numpy
+opencv-python
+
+
